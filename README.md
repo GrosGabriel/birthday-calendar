@@ -3,17 +3,17 @@
 ## An application to keep track of your family/friends/collegues upcoming birthday.
 
 
-The application consists of 4 screens : 
+The application consists of 4 screens.
 
-    -The main page is a list of upcoming birthdays. You can filter it by category and it is still sorted by upcoming birthday.
+-The main page is a list of upcoming birthdays. You can filter it by category and it is still sorted by upcoming birthday.
 
-    -A add page. You can fill a form and add a new person to the hive.
+-A add page. You can fill a form and add a new person to the hive.
 
-    -A person/:id page. Displays some info about the person selected, and tells you the numbers of days before their birthday.
+-A person/:id page. Displays some info about the person selected, and tells you the numbers of days before their birthday.
 
-    -A calendar page. you can navigate through the calendar and see with color dots the birthdays that are coming. When clicking on a date, it displays underneath who's birthday it is.
+-A calendar page. you can navigate through the calendar and see with color dots the birthdays that are coming. When clicking on a date, it displays underneath who's birthday it is.
 
-    Under the calendar is some statistics : the number of family/friends/collegues that you have in the application.
+Under the calendar is some statistics : the number of family/friends/collegues that you have in the application.
 
 
 
