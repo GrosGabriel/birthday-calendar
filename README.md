@@ -12,7 +12,7 @@ The application consists of 4 screens :
 
 ## The application is available at the link : 
 
-https://birthday-calendar-14aae.web.app/
+https://birthday-calendar-14aae.web.app/ (firebase)
 
 ## Running the application locally : 
 
