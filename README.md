@@ -13,6 +13,7 @@ The application consists of 4 screens :
 ## The application is available at the link : 
 
 https://birthday-calendar-14aae.web.app/ (firebase)
+https://grosgabriel.github.io/birthday-calendar/ (Github pages)
 
 ## Running the application locally : 
 
