@@ -1,6 +1,6 @@
 # birthday_calendar
 
-##An application to keep track of your family/friends/collegues upcoming birthday.
+## An application to keep track of your family/friends/collegues upcoming birthday.
 
 The application consists of 4 screens : 
     -The main page is a list of upcoming birthdays. You can filter it by category and it is still sorted by upcoming birthday.
@@ -10,22 +10,22 @@ The application consists of 4 screens :
     Under the calendar is some statistics : the number of family/friends/collegues that you have in the application.
 
 
-##The application is availible at the link : 
+## The application is available at the link : 
 
 https://birthday-calendar-14aae.web.app/
 
-##Running the application locally : 
+## Running the application locally : 
 
 Use the command 'flutter pub get' to install the dependencies.
 
 
-##Structure of the project : 
+## Structure of the project : 
 
 
 I used a model-view-controller, with a service for interacting with the hive. I used GetX for reactivity.
 
 
-##Responsivity
+## Responsivity
 
 The application has 2 breakpoints at 640pixels and 768pixels. It modifies the buttons on the main page.
 
